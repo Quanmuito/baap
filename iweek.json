@@ -1,0 +1,358 @@
+{
+    "iweek" : [
+        {
+            "date" : "20.01.2020",
+            "day" : "Monday",
+            "hosts" : ["Henri Koukka","Ismo Jakonen"],
+            "schedule" : [
+                {
+                    "time" : "10h-11h",
+                    "sessions" : [
+                        {
+                            "Name" : "Meeting the visitors (Staff only)",
+                            "Description" : "",
+                            "Teacher" : [""],
+                            "Location" : "",
+                            "Target_group" : "",
+                            "Cancel" : false
+                        }
+                    ]
+                },
+                {
+                    "time" : "11h-12h",
+                    "sessions" : [
+                        {
+                            "Name" : "Introduction",
+                            "Description" : "",
+                            "Teacher" : [""],
+                            "Location" : "",
+                            "Target_group" : "",
+                            "Cancel" : false
+                        }
+                    ]
+                },
+                {
+                    "time" : "12h-13h",
+                    "sessions" : [
+                        {
+                            "Name" : "Lunch",
+                            "Description" : "",
+                            "Teacher" : [""],
+                            "Location" : "",
+                            "Target_group" : "",
+                            "Cancel" : false
+                        }
+                    ]
+                },
+                {
+                    "time" : "13h-16h",
+                    "sessions" : [
+                        {
+                            "Name" : "A gentle introduction to AR App development in Unity",
+                            "Description" : "Introduction to AR App development in Unity Game Engine by example. Participants learn basics about designing and developing Augmented Reality Apps. I will give a brief theoretical introduction to AR, after which we will develop a simple AR game in groups.",
+                            "Teacher" : ["Klemen Furman"],
+                            "Location" : "M19_C224",
+                            "Target_group" : "med",
+                            "Cancel" : false
+                        },
+                        {
+                            "Name" : "Using AI in web development",
+                            "Description" : "AI can be an intimidating topic for beginners, especially those without a data science background. In this workshop we will apply a few basic AI algorithms to classify webcam input.",
+                            "Teacher" : ["de Goeij Leanne", "Katerborg Erik"],
+                            "Location" : "M19_C236",
+                            "Target_group" : "sw",
+                            "Cancel" : false
+                        },
+                        {
+                            "Name" : "Kanzi, modern HMI framework and design tool",
+                            "Description" : "Introduction to user interface design tool called Kanzi Studio and datasources. Building an user interface prototype.",
+                            "Teacher" : ["Wallin Kalle"],
+                            "Location" : "M19_C225",
+                            "Target_group" : "mcd",
+                            "Cancel" : false
+                        },
+                        {
+                            "Name" : "Sense of Place",
+                            "Description" : "During this multiple day workshop, we will experiment artistically with 360° video. In small groups, you will make recordings with a Ricoh-camera in order to grab your sense of place. How can you transfer your experience of nature through a representation of reality?",
+                            "Teacher" : ["van Klaveren Rosanne"],
+                            "Location" : "M19_C237",
+                            "Target_group" : "mcd",
+                            "Cancel" : false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "date" : "21.01.2020",
+            "day" : "Tuesday",
+            "hosts" : ["Olli Koskimaa","Rami Viksilä"],
+            "schedule" : [
+                {
+                    "time" : "9h-12h",
+                    "sessions" : [
+                        {
+                            "Name" : "Let's build a real React Web app",
+                            "Description" : "Workshop: Let's build a real React Web app (PWA) MVP or UI prototype. Goal is to create some kind of 'Mobile first' web app using React Studio and Cloud Firestore backend.",
+                            "Teacher" : ["Sihlman Antti"],
+                            "Location" : "M19_C225",
+                            "Target_group" : "med",
+                            "Cancel" : false
+                        },
+                        {
+                            "Name" : "User Centred and User Experience Design: Garrett's Five Planes of User Experience",
+                            "Description" : "This lecture/workshop will focus on the importance and relevance of understanding the users' needs and expectations to be ablate develop whole solutions that go beyond technical efficiency.",
+                            "Teacher" : ["Poulsen Eva Sørum"],
+                            "Location" : "M19_D223",
+                            "Target_group" : "mcd",
+                            "Cancel" : false
+                        },
+                        {
+                            "Name" : "New directions in IOT. The importance of semantic in MTM communications",
+                            "Description" : "The era of hardware communication is becoming mature ant instead of having a full standardization about machine to machine communication there are a full set of proposals about it. This lecture shows the main issues in IOT integration and how onltogies and semantic approach can help to fill the gaps.",
+                            "Teacher" : ["Rodriguez Roman Miguel Angel"],
+                            "Location" : "M19_A122",
+                            "Target_group" : "tel",
+                            "Cancel" : false
+                        },
+                        {
+                            "Name" : "Sense of Place",
+                            "Description" : "During this multiple day workshop, we will experiment artistically with 360° video. In small groups, you will make recordings with a Ricoh-camera in order to grab your sense of place. How can you transfer your experience of nature through a representation of reality?",
+                            "Teacher" : ["van Klaveren Rosanne"],
+                            "Location" : "M19_A246",
+                            "Target_group" : "mcd",
+                            "Cancel" : false
+                        }
+                    ]
+                },
+                {
+                    "time" : "12h-13h",
+                    "sessions" : [
+                        {
+                            "Name" : "Lunch",
+                            "Description" : "",
+                            "Teacher" : [""],
+                            "Location" : "",
+                            "Target_group" : "",
+                            "Cancel" : false
+                        }
+                    ]
+                },
+                {
+                    "time" : "13h-16h",
+                    "sessions" : [
+                        {
+                            "Name" : "An introduction to Collective Intelligent",
+                            "Description" : "Nowadays, most of systems on Internet are composed by multiple agents. Social networks, Recommender Systems, Collective behaviours are examples of Collective Intelligence. We are going to do a short introduction about it and its applications.",
+                            "Teacher" : ["Aranda-Corral Gonzalo"],
+                            "Location" : "M19_c236",
+                            "Target_group" : "sw",
+                            "Cancel" : false
+                        },
+                        {
+                            "Name" : "The Application of Ambisonic Audio in Games ",
+                            "Description" : "Ambisonics is a multichannel spatial audio technique which lends itself well to certain situations in game sound design. It is particlarly useful for VR games where spatial presense is important and the ability to rotate soundfields is desirable. In this workshop, students will work through some scenarios of where this 3D audio technique can be applied to good effect.",
+                            "Teacher" : ["Moore John"],
+                            "Location" : "M19_C225",
+                            "Target_group" : "tel",
+                            "Cancel" : false
+                        },
+                        {
+                            "Name" : "Parametric modelling with Grasshopper",
+                            "Description" : "",
+                            "Teacher" : ["Jordi Voltas"],
+                            "Location" : "M19_C225",
+                            "Target_group" : "mcd",
+                            "Cancel" : false
+                        },
+                        {
+                            "Name" : "Sense of Place",
+                            "Description" : "During this multiple day workshop, we will experiment artistically with 360° video. In small groups, you will make recordings with a Ricoh-camera in order to grab your sense of place. How can you transfer your experience of nature through a representation of reality?",
+                            "Teacher" : ["van Klaveren Rosanne"],
+                            "Location" : "M19_A246",
+                            "Target_group" : "mcd",
+                            "Cancel" : false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "date" : "22.01.2020",
+            "day" : "Wednesday",
+            "hosts" : ["Matti Welin","Antti Heinonen"],
+            "schedule" : [
+                {
+                    "time" : "9h-12h",
+                    "sessions" : [
+                        {
+                            "Name" : "Utilization of data in business",
+                            "Description" : "The presentation is about utilization of data within teleoperator’s business. Topics covered include questions about what data is used, how the data is used, why the data is used. Practical case examples illustrate the opportunities and challenges related to data utilization. Keywords are big data, data science, machine learning, artificial intelligence.",
+                            "Teacher" : ["Mäkeläinen Riku"],
+                            "Location" : "M19_A122",
+                            "Target_group" : "med",
+                            "Cancel" : false
+                        },
+                        {
+                            "Name" : "Adventures in AR",
+                            "Description" : "We will present a framework for exploring digital media, using Adobe's new AR platform Aero.",
+                            "Teacher" : ["Morrison John", " McKelvey Andrew"],
+                            "Location" : "M19_C225",
+                            "Target_group" : "sw",
+                            "Cancel" : false
+                        },
+                        {
+                            "Name" : "Security in thick clients",
+                            "Description" : "I will first talk about security in general.  I will introduce some problems with thick client architecture we have met at F-Secure in the recent years and finally I will give a brief introduction about game hacking and how it is different from penetration testing in general.",
+                            "Teacher" : ["Aronen Matti"],
+                            "Location" : "M19_C223",
+                            "Target_group" : "mcd",
+                            "Cancel" : false
+                        },
+                        {
+                            "Name" : "Sense of Place",
+                            "Description" : "During this multiple day workshop, we will experiment artistically with 360° video. In small groups, you will make recordings with a Ricoh-camera in order to grab your sense of place. How can you transfer your experience of nature through a representation of reality?",
+                            "Teacher" : ["van Klaveren Rosanne"],
+                            "Location" : "M19_C246",
+                            "Target_group" : "mcd",
+                            "Cancel" : false
+                        }
+                    ]
+                },
+                {
+                    "time" : "12h-13h",
+                    "sessions" : [
+                        {
+                            "Name" : "Lunch",
+                            "Description" : "",
+                            "Teacher" : [""],
+                            "Location" : "",
+                            "Target_group" : "",
+                            "Cancel" : false
+                        }
+                    ]
+                },
+                {
+                    "time" : "13h-15h",
+                    "sessions" : [
+                        {
+                            "Name" : "Introduction",
+                            "Description" : "",
+                            "Teacher" : [""],
+                            "Location" : "",
+                            "Target_group" : "",
+                            "Cancel" : false
+                        }
+                    ]
+                },
+                {
+                    "time" : "15h-16h",
+                    "sessions" : [
+                        {
+                            "Name" : "R&D workshop",
+                            "Description" : "",
+                            "Teacher" : [""],
+                            "Location" : "",
+                            "Target_group" : "",
+                            "Cancel" : false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "date" : "23.01.2020",
+            "day" : "Thursday",
+            "hosts" : ["Sari Horn"],
+            "schedule" : [
+                {
+                    "time" : "9h-12h",
+                    "sessions" : [
+                        {
+                            "Name" : "Adventures in AR",
+                            "Description" : "We will present a framework for exploring digital media, using Adobe's new AR platform Aero.",
+                            "Teacher" : ["Morrison John", " McKelvey Andrew"],
+                            "Location" : "M19_C225",
+                            "Target_group" : "sw",
+                            "Cancel" : false
+                        },
+                        {
+                            "Name" : "Using AI in web development",
+                            "Description" : "AI can be an intimidating topic for beginners, especially those without a data science background. In this workshop we will apply a few basic AI algorithms to classify webcam input.",
+                            "Teacher" : ["de Goeij Leanne", "Katerborg Erik"],
+                            "Location" : "M19_C236",
+                            "Target_group" : "sw",
+                            "Cancel" : false
+                        },
+                        {
+                            "Name" : "Why you should care about UX Design?",
+                            "Description" : "If you want to create a digital product, whether a mobile application, a game, a web page or any digital platform, if you don’t take into account the users, their needs and how they will interact with the interface, your project will fail. In this workshop, we will learn how to include UX practices in the process of developing digital products, from the first idea to the implementation and testing of the final product.",
+                            "Teacher" : ["Baltà Rosó"],
+                            "Location" : "M19_A203",
+                            "Target_group" : "tel",
+                            "Cancel" : false
+                        },
+                        {
+                            "Name" : "Sense of Place",
+                            "Description" : "During this multiple day workshop, we will experiment artistically with 360° video. In small groups, you will make recordings with a Ricoh-camera in order to grab your sense of place. How can you transfer your experience of nature through a representation of reality?",
+                            "Teacher" : ["van Klaveren Rosanne"],
+                            "Location" : "M19_A246",
+                            "Target_group" : "mcd",
+                            "Cancel" : false
+                        }
+                    ]
+                },
+                {
+                    "time" : "12h-13h",
+                    "sessions" : [
+                        {
+                            "Name" : "Lunch",
+                            "Description" : "",
+                            "Teacher" : [""],
+                            "Location" : "",
+                            "Target_group" : "",
+                            "Cancel" : false
+                        }
+                    ]
+                },
+                {
+                    "time" : "13h-16h",
+                    "sessions" : [
+                        {
+                            "Name" : "Parametric modelling with Grasshopper",
+                            "Description" : "",
+                            "Teacher" : ["Jordi Voltas"],
+                            "Location" : "M19_C225",
+                            "Target_group" : "mcd",
+                            "Cancel" : false
+                        },
+                        {
+                            "Name" : "Why you should care about UX Design?",
+                            "Description" : "If you want to create a digital product, whether a mobile application, a game, a web page or any digital platform, if you don’t take into account the users, their needs and how they will interact with the interface, your project will fail. In this workshop, we will learn how to include UX practices in the process of developing digital products, from the first idea to the implementation and testing of the final product.",
+                            "Teacher" : ["Baltà Rosó"],
+                            "Location" : "M19_C224",
+                            "Target_group" : "tel",
+                            "Cancel" : false
+                        },
+                        {
+                            "Name" : "Javascript robotics",
+                            "Description" : "Javascript's use was originally limited to simple dynamic effects in web pages. Since then, it has gone through an incredible evolution: today, you can use it to build about anything - not only web apps, but also server scripts, cloud applications, and now even to power IoT and Robotics! In this workshop, we'll experiment with the Johhny-Five Javascript robotics & IoT platform. A hands-on lab; no programming or electronics experience is required.",
+                            "Teacher" : ["van der Linde"],
+                            "Location" : "M19_A203",
+                            "Target_group" : "sw",
+                            "Cancel" : false
+                        },
+                        {
+                            "Name" : "Sense of Place",
+                            "Description" : "During this multiple day workshop, we will experiment artistically with 360° video. In small groups, you will make recordings with a Ricoh-camera in order to grab your sense of place. How can you transfer your experience of nature through a representation of reality?",
+                            "Teacher" : ["van Klaveren Rosanne"],
+                            "Location" : "M19_A246",
+                            "Target_group" : "mcd",
+                            "Cancel" : false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
